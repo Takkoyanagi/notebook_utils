@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: notebook_eda_tools
+Version: 0.0.0
+Summary: package to help explore datae
+Author-email: Tak Koyanagi <takaoki.koyanagi@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Readme place holder
